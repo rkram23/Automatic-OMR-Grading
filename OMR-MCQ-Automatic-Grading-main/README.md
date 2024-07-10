@@ -1,10 +1,10 @@
-![image](https://github.com/VikramChinnasamy/OMR-MCQ-Automatic-Grading/assets/137596081/3ac909c6-fb40-42ef-a50d-5562b9190ee0)
+![Screenshot 2024-07-10 212209](https://github.com/rkram23/Automatic-OMR-Grading/assets/138103785/d4076d65-0ee6-4028-a9a4-2e6e4768c5d2)
+![Screenshot 2024-07-10 212222](https://github.com/rkram23/Automatic-OMR-Grading/assets/138103785/a6e75b31-5450-4820-8d47-e33542e215e3)
 
-![image](https://github.com/VikramChinnasamy/OMR-MCQ-Automatic-Grading/assets/137596081/8dfa3ff8-5fd5-4765-9e8e-c7f066b88d23)
 
-![image](https://github.com/VikramChinnasamy/OMR-MCQ-Automatic-Grading/assets/137596081/54cc7345-d898-40e1-9497-fa90ca5d76cf)
+![Screenshot 2024-07-10 212658](https://github.com/rkram23/Automatic-OMR-Grading/assets/138103785/74791a25-3a64-4847-aa6a-cedd56a513cc)
 
-![image](https://github.com/VikramChinnasamy/OMR-MCQ-Automatic-Grading/assets/137596081/92c7e008-14e5-48f8-9aca-605b72ca13a6)
+![Screenshot 2024-07-10 213121](https://github.com/rkram23/Automatic-OMR-Grading/assets/138103785/3e7ca425-782e-4835-96c3-00647747397e)
 
 
 
